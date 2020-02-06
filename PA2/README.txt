@@ -1,0 +1,3 @@
+I used the send function to send larger files over the server to the client. I also tokenized the input string for the type of request as well as for the directory that they were requesting. Once I have those things I can begin to open the file, get the size and type of file to send back to the client. And then send the file shortly afterwards. 
+
+I used C to make the server file, based off of the example that you provided.
